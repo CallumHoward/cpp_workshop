@@ -1,3 +1,5 @@
+Callum Howard, March 2018
+
 Is C++ a dead language?
 =======================
 
@@ -42,15 +44,3 @@ References
 https://insights.stackoverflow.com/survey/2018/#most-loved-dreaded-and-wanted  
 https://www.tiobe.com/tiobe-index/  
 https://www.quora.com/Is-C-dying-2  
-
-
-
-
-
-
-
-
-
-
-
-
