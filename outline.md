@@ -14,6 +14,8 @@ Week 1
 - YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
     - [How C++ Works](https://www.youtube.com/watch?v=SfGuIVzE_Os&t=61s&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=6) (20m)
     - [Variables](https://youtu.be/zB9RI8_wExo) (14m)
+- Reading
+    - [_Is C++ a dead language? - Callum Howard_](https://github.com/CallumHoward/cpp_workshop/blob/master/w01/blog01.md)
 
 
 Week 2
