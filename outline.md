@@ -37,3 +37,23 @@ Week 2
     - [How to Write a Class](https://youtu.be/3dHBFBw13E0) (12m)
     - [Constructors](https://youtu.be/FXhALMsHwEY) (7m)
 
+
+Week 3
+------
+- Pluralsight (Total <2h)
+    1. [Operators](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=b8b7f979-22c1-4c87-b9c4-b43dc69000fa&clip=0&mode=live)
+    2. [STL - Standard Library Philosophy and Approach](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m1&clip=0&mode=live)
+    3. [STL - Counting and Finding](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m2&clip=0&mode=live)
+- [HackerRank](https://www.hackerrank.com/domains/cpp)
+    - [1](https://www.hackerrank.com/challenges/inheritance-introduction/problem) [2](https://www.hackerrank.com/challenges/rectangle-area/problem) [3](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) [4](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem) [5](https://www.hackerrank.com/challenges/messages-order/problem)
+- YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+    - [How the Compiler Works](https://youtu.be/3tIqpEmWMLI) (18m)
+    - [How the Linker Works](https://youtu.be/H4s55GgAg0I) (16m)
+    - [Static](https://youtu.be/f3FVU-iwNuA) (7m)
+    - [Static for Classes and Structs](https://youtu.be/V-BFlMrBtqQ) (9m)
+    - [Local Static](https://youtu.be/f7mtWD9GdJ4) (8m)
+    - [Enum](https://youtu.be/x55jfOd5PEE) (8m)
+    - [Destructors](https://youtu.be/D8cWquReFqw) (5m)
+    - [Inheritance](https://youtu.be/X8nYM8wdNRE) (8m)
+    - [Const](https://youtu.be/4fJBrditnJU) (13m)
+    - [Operators and Operator Overloading](https://youtu.be/mS9755gF66w) (13m)
