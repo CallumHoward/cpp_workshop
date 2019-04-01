@@ -16,7 +16,7 @@ LLVM_COV_COMPILE_FLAGS=-fprofile-instr-generate -fcoverage-mapping
 LLVM_COV_FLAGS=-format=html -Xdemangler c++filt -Xdemangler -n
 
 # add source files to be compiled together here (one main function only)
-SOURCES=boxit.cpp Box.o
+SOURCES=boxit.cpp testBoxit.cpp bin/Box.o
 
 # set command for opening directories and html files
 UNAME_S:=$(shell uname -s)
