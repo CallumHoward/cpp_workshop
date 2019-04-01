@@ -1,6 +1,6 @@
 Callum Howard, March 2019
 
-Is C++ a dead language?
+Is C++ a Dead Language?
 =======================
 
 In my university degree, there came a point where I had a choice of enrolling in either a Web Applications class or an Advanced C++ class. My impression of C++ was that is was C with some extra bits, and it was old and going out of fashion. This of course is not the case in any sense, but it is easy enough to get this impression.
