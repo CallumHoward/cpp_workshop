@@ -1,11 +1,13 @@
 // hello.cpp
 // Callum Howard, 2019
 
-#include <iostream>
+#include "hello.hpp"
 
 int main() {
-
-    std::cout << "hello, world!\n";
-
+    std::cout << GREETING;
+    foo();
     return 0;
 }
+
+#include "hello.hpp"
+
