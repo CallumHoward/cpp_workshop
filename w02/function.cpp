@@ -1,3 +1,7 @@
+// function.cpp
+// https://www.hackerrank.com/challenges/c-tutorial-functions/problem
+// Callum Howard, 2019
+
 #include <iostream>
 #include <algorithm>
 using namespace std;

@@ -1,10 +1,14 @@
+// structs.cpp
+// https://www.hackerrank.com/challenges/c-tutorial-struct/problem
+// Callum Howard, 2019
+
 #include <iostream>
 
 struct Student {
-    int age;
     std::string first_name;
     std::string last_name;
     int standard;
+    int age;
 };
 
 int main() {
