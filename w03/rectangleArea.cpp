@@ -1,4 +1,5 @@
 // rectangleArea.cpp
+// https://www.hackerrank.com/challenges/rectangle-area/problem
 // Callum Howard, 2019
 
 #include <iostream>

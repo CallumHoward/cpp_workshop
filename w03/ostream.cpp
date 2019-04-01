@@ -1,4 +1,5 @@
 // ostream.cpp
+// https://www.hackerrank.com/challenges/overloading-ostream-operator/problem
 // Callum Howard, 2019
 
 #include <iostream>
