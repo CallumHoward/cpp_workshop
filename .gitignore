@@ -1,2 +1,7 @@
 a.out
 *.dSYM
+*.gch
+*.gcno
+*.gcda
+*.o
+bin
