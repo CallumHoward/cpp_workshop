@@ -67,3 +67,30 @@ Week 3
     - [Inheritance](https://youtu.be/X8nYM8wdNRE) (8m)
     - [Const](https://youtu.be/4fJBrditnJU) (13m)
     - [Operators and Operator Overloading](https://youtu.be/mS9755gF66w) (13m)
+
+Week 4
+------
+- Demo
+    - Boxit [code](https://github.com/CallumHoward/cpp_workshop/tree/master/w02/boxit)
+    - Preprocessor 
+    [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w01/hello.cpp) 
+    [hpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w01/hello.hpp)
+- Pluralsight (Total ~1.5h)
+    1. [Templates](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=f79a9ff1-cce2-4e72-8713-e80fb14a3dd1&clip=0&mode=live)
+    3. [STL- Sorting](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m3&clip=0&mode=live)
+    4. [STL- Comparing and Accumulating](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m4&clip=0&mode=live)
+- [HackerRank](https://www.hackerrank.com/domains/cpp)
+    - [1](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)
+      [2](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)
+      [3](https://www.hackerrank.com/challenges/vector-sort/problem)
+      [4](https://www.hackerrank.com/challenges/overload-operators/problem)
+      [5](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem)
+      [6](https://www.hackerrank.com/challenges/attribute-parser/problem)*
+- YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+    - [Templates](https://youtu.be/I-hZkUa9mIs) (18m)
+    - [Vectors](https://youtu.be/PocJ5jXv8No) (14m)
+    - [Sorting](https://youtu.be/x0uUKWJzSO4) (7m)
+    - [Namespaces](https://youtu.be/ts1Eek5w7ZA) (13m)
+    - [Member Initialiser List](https://youtu.be/1nfuYMXjZsA) (9m)
+    - [Virtual Functions](https://youtu.be/oIV2KchSyGQ) (7m)
+    - [Interfaces](https://youtu.be/UWAdd13EfM8) (7m)
