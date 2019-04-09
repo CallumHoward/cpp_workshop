@@ -92,5 +92,44 @@ Week 4
     - [Sorting](https://youtu.be/x0uUKWJzSO4) (7m)
     - [Namespaces](https://youtu.be/ts1Eek5w7ZA) (13m)
     - [Member Initialiser List](https://youtu.be/1nfuYMXjZsA) (9m)
+    - [Visibility](https://youtu.be/6OVQ8nh3KP0) (9m)
     - [Virtual Functions](https://youtu.be/oIV2KchSyGQ) (7m)
     - [Interfaces](https://youtu.be/UWAdd13EfM8) (7m)
+
+Week 5
+------
+- Demo
+    - Video: [Pointers Intro](https://www.youtube.com/watch?v=npWW_Lmw4-E&list=PLbSaCpDlfd6qHRp1RVAB1kpRJ9zoQYuwV&index=8)
+    - pointers [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w05/demo/pointers.cpp)
+    - swap [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w05/demo/swap.cpp)
+- Pluralsight (Total <1.5h)
+    - [Indirection](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=66a2664d-9250-4a3f-a2e0-c8c8ed2efe82&clip=0&mode=live)
+    - [STL - Generating and Manipulating Collections](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m5&clip=0&mode=live)
+- [HackerRank](https://www.hackerrank.com/domains/cpp)
+    - [1](https://www.hackerrank.com/challenges/c-tutorial-pointer)
+    [2](https://www.hackerrank.com/challenges/arrays-introduction)
+    [3](https://www.hackerrank.com/challenges/preprocessor-solution/problem)
+    [4](https://www.hackerrank.com/challenges/vector-erase/problem)
+    [5](https://www.hackerrank.com/challenges/cpp-lower-bound/problem)
+    [6](https://www.hackerrank.com/challenges/prettyprint/problem)
+    [7](https://www.hackerrank.com/challenges/deque-stl/problem)
+- YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+    - [Pointers](https://www.youtube.com/watch?v=DTxHyVn0ODg&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=17&t=0s) (17m)
+    - [References](https://www.youtube.com/watch?v=IzoFn3dfsPA&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=18&t=0s) (10m)
+    - [Arrays](https://youtu.be/ENDaJi08jCU) (19m)
+    - [Static (STL) Arrays](https://youtu.be/Hw42GkHPyvk) (11m)
+    - [Multiple Return Values](https://youtu.be/3cm0VckC8q0) (18m)
+    - [The Arrow Operator](https://youtu.be/4p3grlSpWYA) (8m)
+    - [The "this" Keyword](https://youtu.be/Z_hPJ_EhceI) (6m)
+    - [Object Lifetime](https://youtu.be/iNuTwvD6ciI) (11m)
+
+Week 6
+------
+- Demo
+    - vectorSort [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w04/vectorSort.cpp)
+- Pluralsight (Total ???h)
+    - [Memory Management](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=123d6ac2-20cb-4189-943a-7a5c5d3e0247&clip=0&mode=live)
+- [HackerRank](https://www.hackerrank.com/domains/cpp)
+- YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+    - [The "new" Keyword](https://youtu.be/bP9z3H3cVMY) (7m)
+    - [How to Instantiate Objects](https://youtu.be/Ks97R1knQDY) (13m)
