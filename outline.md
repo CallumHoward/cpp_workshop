@@ -108,7 +108,7 @@ Week 5
 - [HackerRank](https://www.hackerrank.com/domains/cpp)
     - [1](https://www.hackerrank.com/challenges/c-tutorial-pointer)
     [2](https://www.hackerrank.com/challenges/arrays-introduction)
-    [3](https://www.hackerrank.com/challenges/preprocessor-solution/problem)
+    [3](https://www.hackerrank.com/challenges/preprocessor-solution/problem)*
     [4](https://www.hackerrank.com/challenges/vector-erase/problem)
     [5](https://www.hackerrank.com/challenges/cpp-lower-bound/problem)
     [6](https://www.hackerrank.com/challenges/prettyprint/problem)
@@ -127,9 +127,31 @@ Week 6
 ------
 - Demo
     - vectorSort [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w04/vectorSort.cpp)
-- Pluralsight (Total ???h)
+- Pluralsight (Total ~1h)
     - [Memory Management](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=123d6ac2-20cb-4189-943a-7a5c5d3e0247&clip=0&mode=live)
+    - [STL - Using the Power of Iterators](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m6&clip=0&mode=live)
 - [HackerRank](https://www.hackerrank.com/domains/cpp)
+    - [1](https://www.hackerrank.com/challenges/cpp-sets/problem)
+    [2](https://www.hackerrank.com/challenges/cpp-maps/problem)
+    [3](https://www.hackerrank.com/challenges/hotel-prices/problem)
+    [4](https://www.hackerrank.com/challenges/attending-workshops/problem)
 - YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
     - [The "new" Keyword](https://youtu.be/bP9z3H3cVMY) (7m)
     - [How to Instantiate Objects](https://youtu.be/Ks97R1knQDY) (13m)
+    - [Heap vs. Stack](https://youtu.be/wJ1L2nSIV1s) (20m)
+    - [Multidimensional Array](https://youtu.be/gNgUMA_Ur0U) (21m)
+    - [Auto](https://youtu.be/2vOPEuiGXVo) (17m)
+    - [Smart Pointers](https://youtu.be/UOB7-B2MfwA) (12m)
+- Reading
+    - [AAA Style (Almost Always Auto)](https://herbsutter.com/2013/08/12/gotw-94-solution-aaa-style-almost-always-auto/)
+
+Week 7
+------
+- Demo
+- Pluralsight (Total ~1h)
+- [HackerRank](https://www.hackerrank.com/domains/cpp)
+    - [1](https://www.hackerrank.com/challenges/inherited-code/problem)
+- YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+    - [Implicit Conversion and the Explicit Keyword](https://youtu.be/Rr1NX1lH3oE) (8m)
+    - [Copying and Copy Constructors](https://youtu.be/BvR1Pgzzr38) (21m)
+    - [Casting](https://youtu.be/pWZS1MtxI-A) (14m)
