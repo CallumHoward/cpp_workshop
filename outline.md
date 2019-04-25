@@ -1,6 +1,27 @@
 C++ Course
 ==========
 
+Contents
+--------
+- [Resources](#resources)
+- Week
+  [1](#week-1)
+  [2](#week-2)
+  [3](#week-3)
+  [4](#week-4)
+  [5](#week-5)
+  [6](#week-6)
+  [7](#week-7)
+
+Resources
+---------
+- [devdocs.io](https://devdocs.io/cpp) - Online documentation with fuzzy search
+- [wandbox.org](https://wandbox.org) - Online compiler with latest compiler options
+- [cppinsights.io](https://cppinsights.io) - Shows how compilers see your code
+- [Compiler Explorer](https://godbolt.org) - Shows assembly for your code
+- [GDB and LLDB Cheatsheet](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-command-examples.html)
+- [CallumHoward/cpp_workshop.git](https://github.com/CallumHoward/cpp_workshop) - Demo code and exercise solutions
+
 Week 1
 ------
 - Crash course workshop by Callum
@@ -77,8 +98,8 @@ Week 4
     [hpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w01/hello.hpp)
 - Pluralsight (Total ~1.5h)
     1. [Templates](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=f79a9ff1-cce2-4e72-8713-e80fb14a3dd1&clip=0&mode=live)
-    3. [STL- Sorting](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m3&clip=0&mode=live)
-    4. [STL- Comparing and Accumulating](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m4&clip=0&mode=live)
+    3. [STL - Sorting](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m3&clip=0&mode=live)
+    4. [STL - Comparing and Accumulating](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m4&clip=0&mode=live)
 - [HackerRank](https://www.hackerrank.com/domains/cpp)
     - [1](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)
       [2](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)
@@ -127,6 +148,9 @@ Week 6
 ------
 - Demo
     - vectorSort [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w04/vectorSort.cpp)
+    - back_inserter [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w06/demo/back_inserter.cpp)
+    - forLoops [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w06/demo/forLoops.cpp)
+    - generator [cpp](https://github.com/CallumHoward/cpp_workshop/blob/master/w06/demo/generator.cpp)
 - Pluralsight (Total ~1h)
     - [Memory Management](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=123d6ac2-20cb-4189-943a-7a5c5d3e0247&clip=0&mode=live)
     - [STL - Using the Power of Iterators](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m6&clip=0&mode=live)
@@ -141,17 +165,38 @@ Week 6
     - [Heap vs. Stack](https://youtu.be/wJ1L2nSIV1s) (20m)
     - [Multidimensional Array](https://youtu.be/gNgUMA_Ur0U) (21m)
     - [Auto](https://youtu.be/2vOPEuiGXVo) (17m)
-    - [Smart Pointers](https://youtu.be/UOB7-B2MfwA) (12m)
 - Reading
     - [AAA Style (Almost Always Auto)](https://herbsutter.com/2013/08/12/gotw-94-solution-aaa-style-almost-always-auto/)
 
 Week 7
 ------
 - Demo
-- Pluralsight (Total ~1h)
+    - (coming soon)
+- Pluralsight (Total <1.5h)
+    - [Indirection and Inheritance](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=f3ae85e4-b248-4b2b-837f-1488f109886b&clip=0&mode=live)
+    - [STL - Unexpectedly Useful Operations](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m7&clip=0&mode=live)
+    - [STL- Conventions](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m8&clip=0&mode=live)
 - [HackerRank](https://www.hackerrank.com/domains/cpp)
-    - [1](https://www.hackerrank.com/challenges/inherited-code/problem)
+    - [1](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
+    [2](https://www.hackerrank.com/challenges/cpp-exception-handling/problem)
+    [3](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem)
+    [4](https://www.hackerrank.com/challenges/inherited-code/problem)
 - YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+    - [Smart Pointers](https://youtu.be/UOB7-B2MfwA) (12m)
+    - [Ternary Operators](https://www.youtube.com/watch?v=ezqsL-st8qg) (8m)
     - [Implicit Conversion and the Explicit Keyword](https://youtu.be/Rr1NX1lH3oE) (8m)
+    - [Lambdas](https://www.youtube.com/watch?v=mWgmBBz0y8c) (12m)
     - [Copying and Copy Constructors](https://youtu.be/BvR1Pgzzr38) (21m)
     - [Casting](https://youtu.be/pWZS1MtxI-A) (14m)
+
+Week 8
+------
+- Demo
+    - [workshops exercise code with smarter pointers](https://github.com/CallumHoward/cpp_workshop/tree/master/w07/demo/workshops)
+- Pluralsight (Total ~1.5h)
+    - [C++ Core Guidelines](https://app.pluralsight.com/library/courses/cplusplus-core-guidelines-and-support-library-first-look/table-of-contents)
+- [HackerRank](https://www.hackerrank.com/domains/cpp)
+    - [1](https://www.hackerrank.com/challenges/exceptional-server/problem)
+- YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [Virtual Destructors](https://www.youtube.com/watch?v=jELbKhGkEi0) (8m)
+- [Unions](https://www.youtube.com/watch?v=6uqU9Y578n4) (9m)
