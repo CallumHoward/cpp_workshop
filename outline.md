@@ -171,11 +171,11 @@ Week 6
 Week 7
 ------
 - Demo
-    - (coming soon)
+    - [workshops exercise code with smarter pointers](https://github.com/CallumHoward/cpp_workshop/tree/master/w07/demo/workshops)
 - Pluralsight (Total <1.5h)
     - [Indirection and Inheritance](https://app.pluralsight.com/player?course=cplusplus-fundamentals-c17&author=kate-gregory&name=f3ae85e4-b248-4b2b-837f-1488f109886b&clip=0&mode=live)
     - [STL - Unexpectedly Useful Operations](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m7&clip=0&mode=live)
-    - [STL- Conventions](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m8&clip=0&mode=live)
+    - [STL - Conventions](https://app.pluralsight.com/player?course=beautiful-cplusplus-stl-algorithms&author=kate-gregory&name=beautiful-cplusplus-stl-algorithms-m8&clip=0&mode=live)
 - [HackerRank](https://www.hackerrank.com/domains/cpp)
     - [1](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
     [2](https://www.hackerrank.com/challenges/cpp-exception-handling/problem)
@@ -191,12 +191,15 @@ Week 7
 
 Week 8
 ------
-- Demo
-    - [workshops exercise code with smarter pointers](https://github.com/CallumHoward/cpp_workshop/tree/master/w07/demo/workshops)
-- Pluralsight (Total ~1.5h)
+- Pluralsight (Total <2h)
     - [C++ Core Guidelines](https://app.pluralsight.com/library/courses/cplusplus-core-guidelines-and-support-library-first-look/table-of-contents)
+    - [Updating Legacy Code - What Target Are You Trying to Reach](https://app.pluralsight.com/player?course=cpp-updating-legacy-code&author=kate-gregory&name=345421d8-b019-4ae8-bd58-5a39db0eff0b&clip=0&mode=live)
 - [HackerRank](https://www.hackerrank.com/domains/cpp)
     - [1](https://www.hackerrank.com/challenges/exceptional-server/problem)
+    [2](https://www.hackerrank.com/challenges/cpp-exception-handling/problem)
+    [3](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem)
 - YouTube - [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-- [Virtual Destructors](https://www.youtube.com/watch?v=jELbKhGkEi0) (8m)
-- [Unions](https://www.youtube.com/watch?v=6uqU9Y578n4) (9m)
+    - [Virtual Destructors](https://www.youtube.com/watch?v=jELbKhGkEi0) (8m)
+    - [Type Punning](https://www.youtube.com/watch?v=8egZ_5GA9Bc) (13m)
+    - [Unions](https://www.youtube.com/watch?v=6uqU9Y578n4) (9m)
+    - [Timing](https://youtu.be/oEx5vGNFrLk) (11m)
